@@ -1,0 +1,29 @@
+[
+    {
+        "userId": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "age": 22,
+        "department": "CSE",
+        "salary": 45000,
+        "profile": "rahul.jpg"
+    },
+    {
+        "userId": 2,
+        "name": "Priya Singh",
+        "email": "priya@gmail.com",
+        "age": 21,
+        "department": "IT",
+        "salary": 40000,
+        "profile": "priya.jpg"
+    },
+    {
+        "userId": 3,
+        "name": "Aman Kumar",
+        "email": "aman@gmail.com",
+        "age": 23,
+        "department": "ECE",
+        "salary": 50000,
+        "profile": "aman.jpg"
+    }
+]

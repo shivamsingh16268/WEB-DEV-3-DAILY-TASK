@@ -1,0 +1,29 @@
+[
+    {
+        "id": 1,
+        "name": "Tour Package 2",
+        "description": "Second tour package",
+        "price": 2000,
+        "duration": "5 days",
+        "image": "tour2.jpg",
+        "destination": "Goa"
+    },
+    {
+        "id": 2,
+        "name": "Tour Package 2",
+        "description": "Second tour package",
+        "price": 2000,
+        "duration": "5 days",
+        "image": "tour2.jpg",
+        "destination": "Delhi"
+    },
+    {
+        "id": 3,
+        "name": "Tour Package 3",
+        "description": "This is the third tour package",
+        "price": 1000,
+        "duration": "3 days",
+        "image": "tour3.jpg",
+        "destination": "Jaipur"
+    }
+] 

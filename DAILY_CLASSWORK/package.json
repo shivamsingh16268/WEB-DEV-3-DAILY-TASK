@@ -1,0 +1,17 @@
+{
+  "name": "web-dev-sem3",
+  "version": "1.0.0",
+  "description": "\"My best app\"",
+  "license": "ISC",
+  "author": "Mukul kumar",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2"
+  }
+}
